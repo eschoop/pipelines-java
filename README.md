@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/eschoop10621/eschoop1/_apis/build/status/eschoop.pipelines-java?branchName=main)](https://dev.azure.com/eschoop10621/eschoop1/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
